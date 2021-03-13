@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="75fba8a4-fc50-4b54-8380-01e990859a34" name="clinica" url="https://clinicaperitas.ml">
+        <fileTransfer accessType="SFTP" host="34.83.186.52" port="22" sshConfigId="61d60f2a-c755-451c-989f-a2cf53dba381" sshConfig="root@34.83.186.52:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
